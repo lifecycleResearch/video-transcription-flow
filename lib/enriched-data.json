@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "video-transcription-flow",
+    "name": "Video Transcription Flow",
+    "category": "Video/Media",
+    "tagline": "The #169 platform for video transcription \u2014 AI-powered, instant delivery",
+    "hook": "Turn 'Video Transcription' Into a Scalable Revenue Stream",
+    "description": "Enterprise-grade video transcription platform delivering automated workflows and AI-powered tools for freelance professionals.",
+    "primaryColor": "#dc2626",
+    "pricing": {
+      "starter": {
+        "price": 39,
+        "queries": "100",
+        "features": [
+          "100 projects",
+          "Email support",
+          "Basic templates",
+          "Community access"
+        ]
+      },
+      "pro": {
+        "price": 179,
+        "queries": "1,000",
+        "features": [
+          "1,000 projects",
+          "Priority support",
+          "Advanced templates",
+          "API access",
+          "Team features"
+        ]
+      },
+      "enterprise": {
+        "price": 899,
+        "queries": "Unlimited",
+        "features": [
+          "Unlimited projects",
+          "Dedicated support",
+          "Custom branding",
+          "White-label",
+          "SLA guarantee"
+        ]
+      }
+    },
+    "competitor": {
+      "name": "Fiverr",
+      "price": 20
+    },
+    "roi": 50000,
+    "bundle": {
+      "name": "Freelance Video/Media Suite",
+      "price": 358
+    },
+    "features": [
+      {
+        "title": "AI Video Studio",
+        "description": "Edit, enhance, and produce videos with AI",
+        "benefit": "Professional videos instantly",
+        "icon": "Video"
+      },
+      [
+        "Real-time Analytics",
+        "Track every aspect of your video transcription workflow",
+        "Make data-driven decisions",
+        "BarChart3"
+      ],
+      [
+        "Team Collaboration",
+        "Work together seamlessly with built-in collaboration tools",
+        "Team productivity, amplified",
+        "Users"
+      ],
+      [
+        "API Integration",
+        "Connect with the tools you already use via our REST API",
+        "Works with your workflow",
+        "Workflow"
+      ]
+    ],
+    "testimonials": [
+      {
+        "quote": "\"Video Transcription Flow transformed how we handle video transcription. We're 3x more productive.\"",
+        "author": "Sarah Chen",
+        "role": "VP Operations",
+        "company": "TechCorp"
+      },
+      {
+        "quote": "\"The ROI was immediate. In our first month, we doubled our video transcription output.\"",
+        "author": "Marcus Rodriguez",
+        "role": "Director",
+        "company": "Innovation Labs"
+      },
+      {
+        "quote": "\"What took our team a full day now takes 30 minutes. Game-changing.\"",
+        "author": "Emily Park",
+        "role": "Head of Product",
+        "company": "Global Group"
+      }
+    ],
+    "faq": [
+      {
+        "question": "How long does it take to set up?",
+        "answer": "Most users are up and running in under 15 minutes. Enterprise setups with custom workflows take less than 24 hours."
+      },
+      {
+        "question": "Do I need technical skills?",
+        "answer": "Not at all. Video Transcription Flow is designed for non-technical users. Our templates handle the complexity."
+      },
+      {
+        "question": "What if I need to cancel?",
+        "answer": "Cancel anytime with one click. No contracts, no penalties."
+      },
+      {
+        "question": "Can I try before I buy?",
+        "answer": "Yes! Start with a free trial \u2014 no credit card required."
+      }
+    ],
+    "howItWorks": [
+      {
+        "step": 1,
+        "title": "Set Up Your Workspace",
+        "description": "Create your Video Transcription Flow workspace and configure your preferences in minutes.",
+        "icon": "Settings"
+      },
+      {
+        "step": 2,
+        "title": "Choose Your Workflow",
+        "description": "Select from pre-built templates for video transcription or create a custom workflow.",
+        "icon": "MousePointerClick"
+      },
+      {
+        "step": 3,
+        "title": "Deliver & Scale",
+        "description": "Start delivering video transcription at scale with AI-powered automation.",
+        "icon": "Rocket"
+      }
+    ],
+    "problemAgitate": {
+      "problem": "Manual video transcription is costing you time and money",
+      "agitate": "Every hour you spend manually handling video transcription is an hour you could be earning. Your competitors have already automated this and are pulling ahead."
+    },
+    "dreamOutcome": "Imagine automating your entire video transcription workflow \u2014 delivering better results in half the time while your competitors struggle to keep up.",
+    "riskReversal": "Try Video Transcription Flow risk-free for 30 days. If you're not delivering better video transcription faster, get a full refund.",
+    "scarcity": "Limited-time: First 500 customers get 50% off annual plan",
+    "guaranteeDays": 30,
+    "images": {
+      "hero": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=1200&q=80",
+      "dashboard": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "features": [],
+      "testimonials": []
+    },
+    "altText": {
+      "hero": "Video Transcription Flow dashboard and analytics",
+      "dashboard": "Video Transcription Flow project management interface"
+    }
+  }
+]
